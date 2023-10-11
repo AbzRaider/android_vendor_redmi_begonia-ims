@@ -4,6 +4,7 @@
 
 
 PRODUCT_PACKAGES += \
+    ImsService \
     mediatek-common \
     mediatek-framework \
     mediatek-ims-base \
